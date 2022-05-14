@@ -1,3 +1,3 @@
 # Conflict-resolution
-## Subheading
-Ad all files from local to Git repo
+## Subheading created locally
+All of this content added to ReadMe file has been added from my local git repository
